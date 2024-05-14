@@ -1,0 +1,6338 @@
+[
+  {
+    "symbol": "BTCUSD",
+    "open": 62069.8,
+    "high": 62105.5,
+    "low": 62054.8,
+    "close": 62062,
+    "volume": 37,
+    "tick_volume": 37,
+    "date": "Wed Mar 20 2024",
+    "hour": 7,
+    "minute": 16,
+    "spread": 28.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T07:16:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T07:16:00.166Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T07:16:00.166Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 62069.6,
+    "high": 62191.7,
+    "low": 62069.6,
+    "close": 62191.7,
+    "volume": 27,
+    "tick_volume": 27,
+    "date": "Wed Mar 20 2024",
+    "hour": 7,
+    "minute": 17,
+    "spread": 24.60000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T07:17:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T07:17:01.264Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T07:17:01.264Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 62208.1,
+    "high": 62274.8,
+    "low": 62205.7,
+    "close": 62274.8,
+    "volume": 34,
+    "tick_volume": 34,
+    "date": "Wed Mar 20 2024",
+    "hour": 7,
+    "minute": 18,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T07:18:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T07:18:00.368Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T07:18:00.368Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 62270,
+    "high": 62300.2,
+    "low": 62264.7,
+    "close": 62287,
+    "volume": 19,
+    "tick_volume": 19,
+    "date": "Wed Mar 20 2024",
+    "hour": 7,
+    "minute": 19,
+    "spread": 31.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T07:19:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T07:19:00.923Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T07:19:00.923Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63922.9,
+    "high": 63922.9,
+    "low": 63922.9,
+    "close": 63922.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 1,
+    "spread": 30.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:01:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:01:32.335Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:01:32.335Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63922.9,
+    "high": 63922.9,
+    "low": 63922.9,
+    "close": 63922.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 1,
+    "spread": 30.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:01:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:01:32.336Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:01:32.336Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63922.9,
+    "high": 63922.9,
+    "low": 63869.3,
+    "close": 63875.5,
+    "volume": 88,
+    "tick_volume": 88,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 1,
+    "spread": 26.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:01:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:01:32.339Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:01:32.339Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63875.6,
+    "high": 63875.6,
+    "low": 63875.6,
+    "close": 63875.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 2,
+    "spread": 26.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:02:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:02:00.775Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:02:00.775Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63875.6,
+    "high": 63882,
+    "low": 63815.9,
+    "close": 63816.4,
+    "volume": 103,
+    "tick_volume": 103,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 2,
+    "spread": 28,
+    "fullDate": {
+      "$date": "2024-03-20T13:02:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:02:00.776Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:02:00.776Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63875.6,
+    "high": 63875.6,
+    "low": 63875.6,
+    "close": 63875.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 2,
+    "spread": 26.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:02:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:02:00.777Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:02:00.777Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63815.8,
+    "high": 63815.8,
+    "low": 63815.8,
+    "close": 63815.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 3,
+    "spread": 27.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:03:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:03:00.218Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:03:00.218Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63815.8,
+    "high": 63825,
+    "low": 63752.6,
+    "close": 63804.2,
+    "volume": 197,
+    "tick_volume": 197,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 3,
+    "spread": 27.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:03:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:03:00.219Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:03:00.219Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63790.7,
+    "high": 63790.7,
+    "low": 63790.7,
+    "close": 63790.7,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 4,
+    "spread": 29.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:04:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:04:02.551Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:04:02.551Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63790.7,
+    "high": 63823.2,
+    "low": 63722.4,
+    "close": 63734.8,
+    "volume": 140,
+    "tick_volume": 140,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 4,
+    "spread": 31.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T13:04:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:04:02.552Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:04:02.552Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63749.6,
+    "high": 63749.6,
+    "low": 63749.6,
+    "close": 63749.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 5,
+    "spread": 29.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:05:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:05:00.728Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:05:00.728Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63749.6,
+    "high": 63749.6,
+    "low": 63749.6,
+    "close": 63749.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 5,
+    "spread": 29.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:05:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:05:00.730Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:05:00.730Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63749.6,
+    "high": 63769.1,
+    "low": 63717.1,
+    "close": 63726.6,
+    "volume": 145,
+    "tick_volume": 145,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 5,
+    "spread": 26.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:05:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:05:00.732Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:05:00.732Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63732.7,
+    "high": 63732.7,
+    "low": 63732.7,
+    "close": 63732.7,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 6,
+    "spread": 31,
+    "fullDate": {
+      "$date": "2024-03-20T13:06:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:06:00.150Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:06:00.150Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63732.7,
+    "high": 63776.2,
+    "low": 63721.4,
+    "close": 63771.9,
+    "volume": 146,
+    "tick_volume": 146,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 6,
+    "spread": 26.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:06:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:06:00.151Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:06:00.151Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63776.5,
+    "high": 63782.3,
+    "low": 63687.4,
+    "close": 63698,
+    "volume": 132,
+    "tick_volume": 132,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 7,
+    "spread": 31.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:07:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:07:00.095Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:07:00.095Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63708.6,
+    "high": 63756.1,
+    "low": 63701.6,
+    "close": 63706.8,
+    "volume": 96,
+    "tick_volume": 96,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 8,
+    "spread": 28.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:08:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:08:01.523Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:08:01.523Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63700.7,
+    "high": 63737.8,
+    "low": 63669.3,
+    "close": 63698.6,
+    "volume": 144,
+    "tick_volume": 144,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 9,
+    "spread": 28.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:09:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:09:02.900Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:09:02.900Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63699.7,
+    "high": 63699.7,
+    "low": 63699.7,
+    "close": 63699.7,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 10,
+    "spread": 35.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:10:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:10:00.401Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:10:00.401Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63699.7,
+    "high": 63736.9,
+    "low": 63690,
+    "close": 63694.9,
+    "volume": 152,
+    "tick_volume": 152,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 10,
+    "spread": 25,
+    "fullDate": {
+      "$date": "2024-03-20T13:10:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:10:00.402Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:10:00.402Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63690.4,
+    "high": 63690.4,
+    "low": 63649.6,
+    "close": 63649.6,
+    "volume": 132,
+    "tick_volume": 132,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 11,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T13:11:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:11:04.773Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:11:04.773Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63661.5,
+    "high": 63665.4,
+    "low": 63508.1,
+    "close": 63532.4,
+    "volume": 186,
+    "tick_volume": 186,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 12,
+    "spread": 41.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T13:12:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:12:01.024Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:12:01.024Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63523.9,
+    "high": 63523.9,
+    "low": 63523.9,
+    "close": 63523.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 13,
+    "spread": 25.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:13:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:13:01.351Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:13:01.351Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63523.9,
+    "high": 63587.8,
+    "low": 63476.1,
+    "close": 63551.8,
+    "volume": 176,
+    "tick_volume": 176,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 13,
+    "spread": 27.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:13:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:13:01.352Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:13:01.352Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63554.5,
+    "high": 63562.7,
+    "low": 63478.4,
+    "close": 63493.8,
+    "volume": 132,
+    "tick_volume": 132,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 14,
+    "spread": 30.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:14:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:14:00.023Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:14:00.023Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63501.5,
+    "high": 63592,
+    "low": 63471.3,
+    "close": 63570,
+    "volume": 111,
+    "tick_volume": 111,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 15,
+    "spread": 43.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:15:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:15:00.840Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:15:00.840Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63584.9,
+    "high": 63662.1,
+    "low": 63584.9,
+    "close": 63623.7,
+    "volume": 119,
+    "tick_volume": 119,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 16,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T13:16:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:16:00.772Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:16:00.772Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63584.9,
+    "high": 63584.9,
+    "low": 63584.9,
+    "close": 63584.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 16,
+    "spread": 29,
+    "fullDate": {
+      "$date": "2024-03-20T13:16:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:16:00.773Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:16:00.773Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63621.6,
+    "high": 63621.6,
+    "low": 63621.6,
+    "close": 63621.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 17,
+    "spread": 28,
+    "fullDate": {
+      "$date": "2024-03-20T13:17:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:17:01.016Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:17:01.016Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63621.6,
+    "high": 63667.3,
+    "low": 63591.6,
+    "close": 63650.3,
+    "volume": 89,
+    "tick_volume": 89,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 17,
+    "spread": 29.39999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T13:17:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:17:01.017Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:17:01.017Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63651.8,
+    "high": 63651.8,
+    "low": 63651.8,
+    "close": 63651.8,
+    "volume": 2,
+    "tick_volume": 2,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 18,
+    "spread": 27.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:18:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:18:02.816Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:18:02.816Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63651.8,
+    "high": 63651.8,
+    "low": 63507.6,
+    "close": 63515.3,
+    "volume": 109,
+    "tick_volume": 109,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 18,
+    "spread": 26.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:18:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:18:02.825Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:18:02.825Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63530.5,
+    "high": 63530.5,
+    "low": 63530.5,
+    "close": 63530.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 19,
+    "spread": 31.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:19:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:19:02.020Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:19:02.020Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63530.5,
+    "high": 63557,
+    "low": 63472.1,
+    "close": 63478.9,
+    "volume": 146,
+    "tick_volume": 146,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 19,
+    "spread": 32,
+    "fullDate": {
+      "$date": "2024-03-20T13:19:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:19:02.021Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:19:02.022Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63485.6,
+    "high": 63561.7,
+    "low": 63474.8,
+    "close": 63555,
+    "volume": 117,
+    "tick_volume": 117,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 20,
+    "spread": 33.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:20:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:20:01.181Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:20:01.181Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63548.3,
+    "high": 63569.7,
+    "low": 63479.9,
+    "close": 63562.2,
+    "volume": 120,
+    "tick_volume": 120,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 21,
+    "spread": 25.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T13:21:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:21:01.208Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:21:01.208Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63560.6,
+    "high": 63619.2,
+    "low": 63537.8,
+    "close": 63596.1,
+    "volume": 138,
+    "tick_volume": 138,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 22,
+    "spread": 28.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:22:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:22:01.024Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:22:01.024Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63596.5,
+    "high": 63596.5,
+    "low": 63596.5,
+    "close": 63596.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 23,
+    "spread": 28.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:23:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:23:00.753Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:23:00.753Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63596.5,
+    "high": 63596.5,
+    "low": 63596.5,
+    "close": 63596.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 23,
+    "spread": 28.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:23:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:23:00.754Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:23:00.754Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63596.5,
+    "high": 63597.1,
+    "low": 63530.7,
+    "close": 63533.3,
+    "volume": 118,
+    "tick_volume": 118,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 23,
+    "spread": 29.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T13:23:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:23:00.755Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:23:00.755Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63541.1,
+    "high": 63597.4,
+    "low": 63507.9,
+    "close": 63587.6,
+    "volume": 84,
+    "tick_volume": 84,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 24,
+    "spread": 27.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:24:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:24:02.621Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:24:02.621Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63589.3,
+    "high": 63589.3,
+    "low": 63589.3,
+    "close": 63589.3,
+    "volume": 2,
+    "tick_volume": 2,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 25,
+    "spread": 27.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T13:25:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:25:00.681Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:25:00.681Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63589.3,
+    "high": 63611.1,
+    "low": 63552.2,
+    "close": 63611.1,
+    "volume": 76,
+    "tick_volume": 76,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 25,
+    "spread": 25.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:25:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:25:00.684Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:25:00.684Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63599.6,
+    "high": 63599.6,
+    "low": 63512.7,
+    "close": 63560.1,
+    "volume": 135,
+    "tick_volume": 135,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 26,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T13:26:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:26:01.271Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:26:01.271Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63575.3,
+    "high": 63575.3,
+    "low": 63575.3,
+    "close": 63575.3,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 27,
+    "spread": 29,
+    "fullDate": {
+      "$date": "2024-03-20T13:27:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:27:02.394Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:27:02.394Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63575.3,
+    "high": 63597.6,
+    "low": 63540.8,
+    "close": 63540.8,
+    "volume": 125,
+    "tick_volume": 125,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 27,
+    "spread": 24.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:27:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:27:02.395Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:27:02.395Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63541.9,
+    "high": 63541.9,
+    "low": 63541.9,
+    "close": 63541.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 28,
+    "spread": 27.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T13:28:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:28:00.647Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:28:00.647Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63541.9,
+    "high": 63551,
+    "low": 63386.6,
+    "close": 63386.6,
+    "volume": 116,
+    "tick_volume": 116,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 28,
+    "spread": 32.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T13:28:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:28:00.649Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:28:00.649Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63384,
+    "high": 63434.6,
+    "low": 63374.8,
+    "close": 63399.8,
+    "volume": 150,
+    "tick_volume": 150,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 29,
+    "spread": 31.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:29:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:29:00.554Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:29:00.554Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63400.2,
+    "high": 63400.2,
+    "low": 63400.2,
+    "close": 63400.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 30,
+    "spread": 31,
+    "fullDate": {
+      "$date": "2024-03-20T13:30:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:30:00.283Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:30:00.283Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63400.2,
+    "high": 63400.2,
+    "low": 63400.2,
+    "close": 63400.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 30,
+    "spread": 31,
+    "fullDate": {
+      "$date": "2024-03-20T13:30:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:30:00.284Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:30:00.284Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63400.2,
+    "high": 63410.5,
+    "low": 63309,
+    "close": 63318.6,
+    "volume": 100,
+    "tick_volume": 100,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 30,
+    "spread": 31.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T13:30:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:30:00.285Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:30:00.285Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63339,
+    "high": 63339,
+    "low": 63339,
+    "close": 63339,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 31,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T13:31:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:31:01.346Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:31:01.346Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63339,
+    "high": 63344.5,
+    "low": 63177.8,
+    "close": 63197,
+    "volume": 104,
+    "tick_volume": 104,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 31,
+    "spread": 31.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:31:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:31:01.347Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:31:01.347Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63199.3,
+    "high": 63247.7,
+    "low": 63027.5,
+    "close": 63032.8,
+    "volume": 195,
+    "tick_volume": 195,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 32,
+    "spread": 34.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:32:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:32:00.393Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:32:00.393Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63048.2,
+    "high": 63184,
+    "low": 63025.8,
+    "close": 63184,
+    "volume": 168,
+    "tick_volume": 168,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 33,
+    "spread": 33.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:33:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:33:00.308Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:33:00.308Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63187.7,
+    "high": 63282.9,
+    "low": 63187.7,
+    "close": 63250.9,
+    "volume": 144,
+    "tick_volume": 144,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 34,
+    "spread": 29.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:34:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:34:01.357Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:34:01.357Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63252.1,
+    "high": 63252.1,
+    "low": 63252.1,
+    "close": 63252.1,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 35,
+    "spread": 33.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:35:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:35:00.128Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:35:00.128Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63252.1,
+    "high": 63252.1,
+    "low": 63252.1,
+    "close": 63252.1,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 35,
+    "spread": 33.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:35:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:35:00.129Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:35:00.129Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63252.1,
+    "high": 63283.6,
+    "low": 63149.8,
+    "close": 63209,
+    "volume": 187,
+    "tick_volume": 187,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 35,
+    "spread": 31.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:35:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:35:00.130Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:35:00.130Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63205.1,
+    "high": 63422.4,
+    "low": 63205.1,
+    "close": 63422.4,
+    "volume": 162,
+    "tick_volume": 162,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 36,
+    "spread": 30.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:36:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:36:00.543Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:36:00.543Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63413.4,
+    "high": 63413.4,
+    "low": 63413.4,
+    "close": 63413.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 37,
+    "spread": 33.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:37:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:37:00.348Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:37:00.348Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63413.4,
+    "high": 63413.4,
+    "low": 63413.4,
+    "close": 63413.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 37,
+    "spread": 33.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:37:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:37:00.348Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:37:00.348Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63413.4,
+    "high": 63544.1,
+    "low": 63392.3,
+    "close": 63540.7,
+    "volume": 100,
+    "tick_volume": 100,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 37,
+    "spread": 30.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:37:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:37:00.349Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:37:00.349Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63558.7,
+    "high": 63575.6,
+    "low": 63514.8,
+    "close": 63514.8,
+    "volume": 132,
+    "tick_volume": 132,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 38,
+    "spread": 31.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:38:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:38:01.022Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:38:01.022Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63483.5,
+    "high": 63539.7,
+    "low": 63432.4,
+    "close": 63432.4,
+    "volume": 174,
+    "tick_volume": 174,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 39,
+    "spread": 37.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:39:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:39:00.226Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:39:00.226Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63374.5,
+    "high": 63374.5,
+    "low": 63374.5,
+    "close": 63374.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 40,
+    "spread": 30.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:40:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:40:03.978Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:40:03.978Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63374.5,
+    "high": 63486.5,
+    "low": 63313.3,
+    "close": 63478.6,
+    "volume": 122,
+    "tick_volume": 122,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 40,
+    "spread": 54.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T13:40:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:40:03.980Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:40:03.980Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63506.8,
+    "high": 63730.4,
+    "low": 63499.4,
+    "close": 63669.4,
+    "volume": 180,
+    "tick_volume": 180,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 41,
+    "spread": 33.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:41:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:41:00.002Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:41:00.002Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63662.6,
+    "high": 63662.6,
+    "low": 63662.6,
+    "close": 63662.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 42,
+    "spread": 39.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:42:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:42:04.340Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:42:04.340Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63662.6,
+    "high": 63662.6,
+    "low": 63662.6,
+    "close": 63662.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 42,
+    "spread": 39.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:42:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:42:04.342Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:42:04.342Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63662.6,
+    "high": 63729.9,
+    "low": 63662.6,
+    "close": 63707.4,
+    "volume": 100,
+    "tick_volume": 100,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 42,
+    "spread": 38.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:42:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:42:04.346Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:42:04.346Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63751.6,
+    "high": 63751.6,
+    "low": 63751.6,
+    "close": 63751.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 43,
+    "spread": 31.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:43:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:43:01.927Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:43:01.927Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63751.6,
+    "high": 63767,
+    "low": 63603.5,
+    "close": 63612.7,
+    "volume": 128,
+    "tick_volume": 128,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 43,
+    "spread": 37.60000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T13:43:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:43:01.929Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:43:01.929Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63616.6,
+    "high": 63650.7,
+    "low": 63542.8,
+    "close": 63573.7,
+    "volume": 93,
+    "tick_volume": 93,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 44,
+    "spread": 32.60000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T13:44:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:44:04.469Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:44:04.469Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63556.3,
+    "high": 63556.3,
+    "low": 63556.3,
+    "close": 63556.3,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 45,
+    "spread": 32.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:45:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:45:00.708Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:45:00.708Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63556.3,
+    "high": 63556.3,
+    "low": 63556.3,
+    "close": 63556.3,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 45,
+    "spread": 32.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:45:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:45:00.709Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:45:00.709Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63556.3,
+    "high": 63820.8,
+    "low": 63500.9,
+    "close": 63776.2,
+    "volume": 172,
+    "tick_volume": 172,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 45,
+    "spread": 32.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:45:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:45:00.710Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:45:00.710Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63770.4,
+    "high": 63770.4,
+    "low": 63770.4,
+    "close": 63770.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 46,
+    "spread": 32.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:46:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:46:00.025Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:46:00.025Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63770.4,
+    "high": 63770.4,
+    "low": 63475.1,
+    "close": 63497.9,
+    "volume": 215,
+    "tick_volume": 215,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 46,
+    "spread": 33.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T13:46:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:46:00.027Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:46:00.027Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63503.5,
+    "high": 63503.5,
+    "low": 63503.5,
+    "close": 63503.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 47,
+    "spread": 38.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:47:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:47:00.132Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:47:00.132Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63503.5,
+    "high": 63574.5,
+    "low": 63482.4,
+    "close": 63518.8,
+    "volume": 194,
+    "tick_volume": 194,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 47,
+    "spread": 30.39999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T13:47:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:47:00.135Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:47:00.135Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63533.6,
+    "high": 63533.6,
+    "low": 63533.6,
+    "close": 63533.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 48,
+    "spread": 32.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:48:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:48:00.583Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:48:00.583Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63533.6,
+    "high": 63535.8,
+    "low": 63471.2,
+    "close": 63471.2,
+    "volume": 140,
+    "tick_volume": 140,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 48,
+    "spread": 29.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:48:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:48:00.588Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:48:00.588Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63471.6,
+    "high": 63512.7,
+    "low": 63434,
+    "close": 63455.7,
+    "volume": 123,
+    "tick_volume": 123,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 49,
+    "spread": 31.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T13:49:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:49:00.385Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:49:00.385Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63465.5,
+    "high": 63465.5,
+    "low": 63465.5,
+    "close": 63465.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 50,
+    "spread": 31.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:50:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:50:00.463Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:50:00.463Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63465.5,
+    "high": 63475.9,
+    "low": 63343.1,
+    "close": 63366.4,
+    "volume": 137,
+    "tick_volume": 137,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 50,
+    "spread": 29.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:50:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:50:00.464Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:50:00.464Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63370.2,
+    "high": 63473.4,
+    "low": 63365.1,
+    "close": 63376.9,
+    "volume": 165,
+    "tick_volume": 165,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 51,
+    "spread": 34.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T13:51:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:51:00.541Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:51:00.541Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63386.7,
+    "high": 63413.7,
+    "low": 63352.5,
+    "close": 63390.7,
+    "volume": 144,
+    "tick_volume": 144,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 52,
+    "spread": 31.60000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T13:52:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:52:01.507Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:52:01.507Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63378.4,
+    "high": 63541.8,
+    "low": 63375.4,
+    "close": 63461.9,
+    "volume": 156,
+    "tick_volume": 156,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 53,
+    "spread": 28.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T13:53:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:53:00.247Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:53:00.247Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63461.6,
+    "high": 63599.8,
+    "low": 63451.6,
+    "close": 63590.9,
+    "volume": 147,
+    "tick_volume": 147,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 54,
+    "spread": 29.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:54:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:54:01.495Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:54:01.495Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63574.4,
+    "high": 63696.4,
+    "low": 63546.1,
+    "close": 63668.9,
+    "volume": 144,
+    "tick_volume": 144,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 55,
+    "spread": 25.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T13:55:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:55:00.072Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:55:00.072Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63668.4,
+    "high": 63668.4,
+    "low": 63668.4,
+    "close": 63668.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 56,
+    "spread": 25.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T13:56:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:56:00.967Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:56:00.967Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63668.4,
+    "high": 63668.4,
+    "low": 63536.2,
+    "close": 63603.9,
+    "volume": 125,
+    "tick_volume": 125,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 56,
+    "spread": 27.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T13:56:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:56:00.969Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:56:00.969Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63603.5,
+    "high": 63610.7,
+    "low": 63491.4,
+    "close": 63521.1,
+    "volume": 129,
+    "tick_volume": 129,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 57,
+    "spread": 33.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:57:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:57:00.911Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:57:00.911Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63528.5,
+    "high": 63528.5,
+    "low": 63528.5,
+    "close": 63528.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 58,
+    "spread": 30.5,
+    "fullDate": {
+      "$date": "2024-03-20T13:58:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:58:03.502Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:58:03.502Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63528.5,
+    "high": 63607.5,
+    "low": 63517.5,
+    "close": 63558.5,
+    "volume": 95,
+    "tick_volume": 95,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 58,
+    "spread": 28,
+    "fullDate": {
+      "$date": "2024-03-20T13:58:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:58:03.504Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:58:03.504Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63554.5,
+    "high": 63590.4,
+    "low": 63554.5,
+    "close": 63570.2,
+    "volume": 57,
+    "tick_volume": 57,
+    "date": "Wed Mar 20 2024",
+    "hour": 13,
+    "minute": 59,
+    "spread": 29.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T13:59:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T13:59:00.933Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T13:59:00.933Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63566.6,
+    "high": 63583.6,
+    "low": 63489,
+    "close": 63489.2,
+    "volume": 85,
+    "tick_volume": 85,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 0,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T14:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:00:00.155Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:00:00.155Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63566.6,
+    "high": 63566.6,
+    "low": 63566.6,
+    "close": 63566.6,
+    "volume": 2,
+    "tick_volume": 2,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 0,
+    "spread": 27.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:00:00.156Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:00:00.156Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63493.2,
+    "high": 63505.1,
+    "low": 63414.2,
+    "close": 63427.5,
+    "volume": 120,
+    "tick_volume": 120,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 1,
+    "spread": 31.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:01:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:01:01.888Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:01:01.888Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63428.6,
+    "high": 63566.2,
+    "low": 63428.6,
+    "close": 63492.8,
+    "volume": 99,
+    "tick_volume": 99,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 2,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T14:02:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:02:00.837Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:02:00.837Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63511.6,
+    "high": 63511.6,
+    "low": 63511.6,
+    "close": 63511.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 3,
+    "spread": 32.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:03:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:03:00.684Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:03:00.684Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63511.6,
+    "high": 63579.8,
+    "low": 63451.2,
+    "close": 63569.9,
+    "volume": 170,
+    "tick_volume": 170,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 3,
+    "spread": 28.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T14:03:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:03:00.685Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:03:00.685Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63567.7,
+    "high": 63624.5,
+    "low": 63559.7,
+    "close": 63612.5,
+    "volume": 117,
+    "tick_volume": 117,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 4,
+    "spread": 30.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T14:04:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:04:00.378Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:04:00.378Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63623.1,
+    "high": 63731.3,
+    "low": 63623.1,
+    "close": 63730.4,
+    "volume": 116,
+    "tick_volume": 116,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 5,
+    "spread": 30.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T14:05:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:05:00.991Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:05:00.991Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63623.1,
+    "high": 63623.1,
+    "low": 63623.1,
+    "close": 63623.1,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 5,
+    "spread": 37,
+    "fullDate": {
+      "$date": "2024-03-20T14:05:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:05:00.992Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:05:00.992Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63725.4,
+    "high": 63736.1,
+    "low": 63650,
+    "close": 63650.3,
+    "volume": 123,
+    "tick_volume": 123,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 6,
+    "spread": 29.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:06:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:06:00.598Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:06:00.598Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63653.8,
+    "high": 63653.8,
+    "low": 63653.8,
+    "close": 63653.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 7,
+    "spread": 27.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T14:07:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:07:00.631Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:07:00.631Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63653.8,
+    "high": 63844.9,
+    "low": 63648.2,
+    "close": 63844.9,
+    "volume": 149,
+    "tick_volume": 149,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 7,
+    "spread": 29.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T14:07:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:07:00.632Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:07:00.632Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63843.2,
+    "high": 63843.2,
+    "low": 63787.9,
+    "close": 63787.9,
+    "volume": 104,
+    "tick_volume": 104,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 8,
+    "spread": 29.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:08:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:08:00.434Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:08:00.434Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63843.2,
+    "high": 63843.2,
+    "low": 63843.2,
+    "close": 63843.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 8,
+    "spread": 30.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:08:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:08:00.435Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:08:00.435Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63771.1,
+    "high": 63817.6,
+    "low": 63746.3,
+    "close": 63799.8,
+    "volume": 96,
+    "tick_volume": 96,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 9,
+    "spread": 32.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T14:09:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:09:01.506Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:09:01.506Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63806.2,
+    "high": 63949.9,
+    "low": 63779.4,
+    "close": 63925.7,
+    "volume": 117,
+    "tick_volume": 117,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 10,
+    "spread": 30.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:10:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:10:00.064Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:10:00.064Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63930.2,
+    "high": 63930.2,
+    "low": 63655.5,
+    "close": 63655.5,
+    "volume": 183,
+    "tick_volume": 183,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 11,
+    "spread": 32.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T14:11:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:11:02.152Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:11:02.152Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63675.8,
+    "high": 63675.8,
+    "low": 63675.8,
+    "close": 63675.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 12,
+    "spread": 37.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:12:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:12:01.856Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:12:01.856Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63675.8,
+    "high": 63716.8,
+    "low": 63596.6,
+    "close": 63616.5,
+    "volume": 158,
+    "tick_volume": 158,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 12,
+    "spread": 39.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:12:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:12:01.859Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:12:01.859Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63638.3,
+    "high": 63773,
+    "low": 63625.7,
+    "close": 63749.1,
+    "volume": 123,
+    "tick_volume": 123,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 13,
+    "spread": 35,
+    "fullDate": {
+      "$date": "2024-03-20T14:13:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:13:00.104Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:13:00.104Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63760.9,
+    "high": 63809.5,
+    "low": 63692.3,
+    "close": 63799.6,
+    "volume": 75,
+    "tick_volume": 75,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 14,
+    "spread": 36.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:14:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:14:00.209Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:14:00.209Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63790.5,
+    "high": 63934.7,
+    "low": 63790.5,
+    "close": 63930.6,
+    "volume": 108,
+    "tick_volume": 108,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 15,
+    "spread": 31.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T14:15:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:15:02.122Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:15:02.122Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63924,
+    "high": 63926.9,
+    "low": 63834.6,
+    "close": 63873.2,
+    "volume": 120,
+    "tick_volume": 120,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 16,
+    "spread": 36.10000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T14:16:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:16:00.523Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:16:00.523Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63872.6,
+    "high": 63872.6,
+    "low": 63872.6,
+    "close": 63872.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 17,
+    "spread": 33.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:17:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:17:01.661Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:17:01.661Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63872.6,
+    "high": 63884.5,
+    "low": 63807.8,
+    "close": 63814.6,
+    "volume": 116,
+    "tick_volume": 116,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 17,
+    "spread": 34.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:17:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:17:01.662Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:17:01.662Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63819.1,
+    "high": 63915.8,
+    "low": 63818.7,
+    "close": 63851.5,
+    "volume": 123,
+    "tick_volume": 123,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 18,
+    "spread": 35.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:18:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:18:00.981Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:18:00.981Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63852.4,
+    "high": 63895.2,
+    "low": 63833.4,
+    "close": 63889.4,
+    "volume": 84,
+    "tick_volume": 84,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 19,
+    "spread": 28.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:19:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:19:00.516Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:19:00.516Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63887.2,
+    "high": 63977.8,
+    "low": 63870.6,
+    "close": 63975,
+    "volume": 108,
+    "tick_volume": 108,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 20,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T14:20:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:20:00.803Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:20:00.803Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63971.2,
+    "high": 63980.6,
+    "low": 63942.6,
+    "close": 63954.7,
+    "volume": 90,
+    "tick_volume": 90,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 21,
+    "spread": 26.10000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T14:21:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:21:01.028Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:21:01.028Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63946.9,
+    "high": 63946.9,
+    "low": 63946.9,
+    "close": 63946.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 22,
+    "spread": 28,
+    "fullDate": {
+      "$date": "2024-03-20T14:22:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:22:01.775Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:22:01.775Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63946.9,
+    "high": 64033.3,
+    "low": 63946.9,
+    "close": 63968.4,
+    "volume": 119,
+    "tick_volume": 119,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 22,
+    "spread": 29.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T14:22:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:22:01.779Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:22:01.779Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63965,
+    "high": 63965,
+    "low": 63965,
+    "close": 63965,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 23,
+    "spread": 24.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T14:23:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:23:01.260Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:23:01.260Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63965,
+    "high": 63965,
+    "low": 63965,
+    "close": 63965,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 23,
+    "spread": 24.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T14:23:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:23:01.262Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:23:01.262Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63965,
+    "high": 64025.9,
+    "low": 63920.4,
+    "close": 64025.9,
+    "volume": 100,
+    "tick_volume": 100,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 23,
+    "spread": 33.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:23:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:23:01.265Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:23:01.265Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64028.6,
+    "high": 64028.6,
+    "low": 64028.6,
+    "close": 64028.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 24,
+    "spread": 28.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T14:24:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:24:01.318Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:24:01.318Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64028.6,
+    "high": 64028.6,
+    "low": 64028.6,
+    "close": 64028.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 24,
+    "spread": 28.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T14:24:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:24:01.325Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:24:01.325Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64028.6,
+    "high": 64028.6,
+    "low": 63933.2,
+    "close": 64003.3,
+    "volume": 88,
+    "tick_volume": 88,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 24,
+    "spread": 31.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:24:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:24:01.328Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:24:01.328Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63996.8,
+    "high": 64011.1,
+    "low": 63937.9,
+    "close": 64011.1,
+    "volume": 54,
+    "tick_volume": 54,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 25,
+    "spread": 29.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:25:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:25:00.993Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:25:00.993Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64006.2,
+    "high": 64006.2,
+    "low": 64006.2,
+    "close": 64006.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 26,
+    "spread": 28.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:26:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:26:00.408Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:26:00.408Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64006.2,
+    "high": 64006.2,
+    "low": 64006.2,
+    "close": 64006.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 26,
+    "spread": 28.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:26:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:26:00.412Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:26:00.412Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64006.2,
+    "high": 64092.7,
+    "low": 64006.2,
+    "close": 64092.7,
+    "volume": 85,
+    "tick_volume": 85,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 26,
+    "spread": 29.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:26:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:26:00.413Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:26:00.413Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64104.8,
+    "high": 64104.8,
+    "low": 64104.8,
+    "close": 64104.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 27,
+    "spread": 29.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T14:27:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:27:01.392Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:27:01.392Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64104.8,
+    "high": 64104.8,
+    "low": 64104.8,
+    "close": 64104.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 27,
+    "spread": 29.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T14:27:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:27:01.393Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:27:01.393Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64104.8,
+    "high": 64127.7,
+    "low": 64050.6,
+    "close": 64100.7,
+    "volume": 73,
+    "tick_volume": 73,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 27,
+    "spread": 27.60000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T14:27:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:27:01.394Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:27:01.394Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64103.4,
+    "high": 64103.4,
+    "low": 64103.4,
+    "close": 64103.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 28,
+    "spread": 26.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:28:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:28:02.702Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:28:02.702Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64103.4,
+    "high": 64150,
+    "low": 64074.4,
+    "close": 64121.4,
+    "volume": 89,
+    "tick_volume": 89,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 28,
+    "spread": 33.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T14:28:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:28:02.704Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:28:02.704Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64128.5,
+    "high": 64159,
+    "low": 64111.1,
+    "close": 64130.4,
+    "volume": 75,
+    "tick_volume": 75,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 29,
+    "spread": 28.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:29:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:29:05.483Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:29:05.483Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64110.2,
+    "high": 64110.2,
+    "low": 64032.2,
+    "close": 64080.9,
+    "volume": 156,
+    "tick_volume": 156,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 30,
+    "spread": 28.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:30:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:30:07.871Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:30:07.871Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64082.1,
+    "high": 64082.1,
+    "low": 64082.1,
+    "close": 64082.1,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 31,
+    "spread": 27.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:31:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:31:00.512Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:31:00.512Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64082.1,
+    "high": 64149.3,
+    "low": 64082.1,
+    "close": 64149.3,
+    "volume": 160,
+    "tick_volume": 160,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 31,
+    "spread": 30.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:31:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:31:00.513Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:31:00.513Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64082.1,
+    "high": 64082.1,
+    "low": 64082.1,
+    "close": 64082.1,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 31,
+    "spread": 27.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:31:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:31:00.514Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:31:00.514Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64148.8,
+    "high": 64148.8,
+    "low": 64148.8,
+    "close": 64148.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 32,
+    "spread": 27.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:32:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:32:00.188Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:32:00.188Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64148.8,
+    "high": 64245.3,
+    "low": 64146.8,
+    "close": 64240.3,
+    "volume": 116,
+    "tick_volume": 116,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 32,
+    "spread": 27.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T14:32:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:32:00.189Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:32:00.189Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64245,
+    "high": 64245,
+    "low": 64245,
+    "close": 64245,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 33,
+    "spread": 28.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:33:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:33:01.793Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:33:01.793Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64245,
+    "high": 64285.9,
+    "low": 64084,
+    "close": 64159.1,
+    "volume": 167,
+    "tick_volume": 167,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 33,
+    "spread": 28.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:33:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:33:01.795Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:33:01.795Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64161.6,
+    "high": 64161.6,
+    "low": 64161.6,
+    "close": 64161.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 34,
+    "spread": 25.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:34:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:34:00.372Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:34:00.372Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64161.6,
+    "high": 64161.6,
+    "low": 64161.6,
+    "close": 64161.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 34,
+    "spread": 25.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:34:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:34:00.373Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:34:00.373Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64161.6,
+    "high": 64163.9,
+    "low": 64046.9,
+    "close": 64048.2,
+    "volume": 169,
+    "tick_volume": 169,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 34,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T14:34:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:34:00.373Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:34:00.373Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64059.7,
+    "high": 64079.6,
+    "low": 63946.1,
+    "close": 63975.9,
+    "volume": 176,
+    "tick_volume": 176,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 35,
+    "spread": 29.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:35:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:35:00.395Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:35:00.395Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63975.9,
+    "high": 64005.9,
+    "low": 63950.1,
+    "close": 63971.1,
+    "volume": 202,
+    "tick_volume": 202,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 36,
+    "spread": 32.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:36:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:36:00.013Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:36:00.013Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63981,
+    "high": 63981,
+    "low": 63981,
+    "close": 63981,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 37,
+    "spread": 31.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:37:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:37:00.454Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:37:00.454Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63981,
+    "high": 63981,
+    "low": 63981,
+    "close": 63981,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 37,
+    "spread": 31.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:37:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:37:00.455Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:37:00.455Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63981,
+    "high": 64011.6,
+    "low": 63948.1,
+    "close": 64003.2,
+    "volume": 172,
+    "tick_volume": 172,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 37,
+    "spread": 24.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:37:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:37:00.456Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:37:00.456Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64008.9,
+    "high": 64092.5,
+    "low": 64008.9,
+    "close": 64061.7,
+    "volume": 47,
+    "tick_volume": 47,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 38,
+    "spread": 30.10000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T14:38:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:38:00.175Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:38:00.175Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64008.9,
+    "high": 64008.9,
+    "low": 64008.9,
+    "close": 64008.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 38,
+    "spread": 31.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:38:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:38:00.176Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:38:00.176Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64063.3,
+    "high": 64202.8,
+    "low": 64063.3,
+    "close": 64108.6,
+    "volume": 135,
+    "tick_volume": 135,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 39,
+    "spread": 27.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:39:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:39:00.384Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:39:00.384Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64105.7,
+    "high": 64105.7,
+    "low": 64105.7,
+    "close": 64105.7,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 40,
+    "spread": 29.10000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T14:40:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:40:00.366Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:40:00.366Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64105.7,
+    "high": 64164,
+    "low": 64000.9,
+    "close": 64044.4,
+    "volume": 173,
+    "tick_volume": 173,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 40,
+    "spread": 26.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:40:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:40:00.367Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:40:00.367Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64036.3,
+    "high": 64036.3,
+    "low": 64036.3,
+    "close": 64036.3,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 41,
+    "spread": 32.39999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T14:41:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:41:00.926Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:41:00.926Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64036.3,
+    "high": 64167.6,
+    "low": 64031.3,
+    "close": 64155.2,
+    "volume": 185,
+    "tick_volume": 185,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 41,
+    "spread": 30.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:41:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:41:00.927Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:41:00.927Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64140.6,
+    "high": 64140.6,
+    "low": 64140.6,
+    "close": 64140.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 42,
+    "spread": 27.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T14:42:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:42:01.992Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:42:01.992Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64140.6,
+    "high": 64150.8,
+    "low": 64085.5,
+    "close": 64086.2,
+    "volume": 86,
+    "tick_volume": 86,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 42,
+    "spread": 27.700000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:42:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:42:01.994Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:42:01.994Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64100.2,
+    "high": 64100.2,
+    "low": 64100.2,
+    "close": 64100.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 43,
+    "spread": 28.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T14:43:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:43:02.823Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:43:02.823Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64100.2,
+    "high": 64145.8,
+    "low": 63984.9,
+    "close": 64023.6,
+    "volume": 104,
+    "tick_volume": 104,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 43,
+    "spread": 30,
+    "fullDate": {
+      "$date": "2024-03-20T14:43:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:43:02.824Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:43:02.824Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64007.9,
+    "high": 64033.9,
+    "low": 63974.4,
+    "close": 64019.5,
+    "volume": 78,
+    "tick_volume": 78,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 44,
+    "spread": 26.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T14:44:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:44:00.752Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:44:00.752Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64021.3,
+    "high": 64021.3,
+    "low": 64021.3,
+    "close": 64021.3,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 45,
+    "spread": 32.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:45:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:45:01.431Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:45:01.431Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64021.3,
+    "high": 64021.3,
+    "low": 63949.3,
+    "close": 63949.3,
+    "volume": 131,
+    "tick_volume": 131,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 45,
+    "spread": 27.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T14:45:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:45:01.432Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:45:01.432Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63960.2,
+    "high": 64073.4,
+    "low": 63960.1,
+    "close": 64069.6,
+    "volume": 144,
+    "tick_volume": 144,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 46,
+    "spread": 32.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T14:46:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:46:00.841Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:46:00.841Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64070.4,
+    "high": 64085.4,
+    "low": 63976.7,
+    "close": 63979.2,
+    "volume": 96,
+    "tick_volume": 96,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 47,
+    "spread": 32.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:47:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:47:01.871Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:47:01.871Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63979.2,
+    "high": 64197.4,
+    "low": 63979.2,
+    "close": 64180,
+    "volume": 147,
+    "tick_volume": 147,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 48,
+    "spread": 30.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:48:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:48:01.211Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:48:01.211Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64171.8,
+    "high": 64178.6,
+    "low": 64030.6,
+    "close": 64052.1,
+    "volume": 153,
+    "tick_volume": 153,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 49,
+    "spread": 33.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:49:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:49:00.170Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:49:00.170Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64057.8,
+    "high": 64101.9,
+    "low": 64037.3,
+    "close": 64090.4,
+    "volume": 116,
+    "tick_volume": 116,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 50,
+    "spread": 29.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T14:50:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:50:00.722Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:50:00.722Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64057.8,
+    "high": 64057.8,
+    "low": 64057.8,
+    "close": 64057.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 50,
+    "spread": 33,
+    "fullDate": {
+      "$date": "2024-03-20T14:50:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:50:00.724Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:50:00.724Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64097.1,
+    "high": 64203.9,
+    "low": 64068.8,
+    "close": 64157.4,
+    "volume": 153,
+    "tick_volume": 153,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 51,
+    "spread": 26.799999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T14:51:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:51:01.714Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:51:01.714Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64148.9,
+    "high": 64190.1,
+    "low": 64131.9,
+    "close": 64180.6,
+    "volume": 75,
+    "tick_volume": 75,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 52,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T14:52:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:52:01.976Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:52:01.976Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64176.6,
+    "high": 64286.2,
+    "low": 64156.6,
+    "close": 64276.2,
+    "volume": 111,
+    "tick_volume": 111,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 53,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T14:53:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:53:02.719Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:53:02.719Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64274.7,
+    "high": 64274.7,
+    "low": 64274.7,
+    "close": 64274.7,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 54,
+    "spread": 33.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:54:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:54:00.082Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:54:00.082Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64274.7,
+    "high": 64274.7,
+    "low": 64274.7,
+    "close": 64274.7,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 54,
+    "spread": 33.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:54:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:54:00.084Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:54:00.084Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64274.7,
+    "high": 64330.1,
+    "low": 64247.2,
+    "close": 64247.2,
+    "volume": 130,
+    "tick_volume": 130,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 54,
+    "spread": 37.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T14:54:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:54:00.086Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:54:00.086Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64249.4,
+    "high": 64249.4,
+    "low": 64249.4,
+    "close": 64249.4,
+    "volume": 2,
+    "tick_volume": 2,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 55,
+    "spread": 25.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:55:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:55:00.172Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:55:00.172Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64249.4,
+    "high": 64252.8,
+    "low": 64190.7,
+    "close": 64221.4,
+    "volume": 175,
+    "tick_volume": 175,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 55,
+    "spread": 29.5,
+    "fullDate": {
+      "$date": "2024-03-20T14:55:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:55:00.176Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:55:00.176Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64192.5,
+    "high": 64192.5,
+    "low": 64192.5,
+    "close": 64192.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 56,
+    "spread": 24.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T14:56:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:56:00.414Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:56:00.414Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64192.5,
+    "high": 64234.9,
+    "low": 64172.9,
+    "close": 64221.4,
+    "volume": 113,
+    "tick_volume": 113,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 56,
+    "spread": 22.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:56:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:56:00.417Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:56:00.417Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64225.4,
+    "high": 64225.4,
+    "low": 64225.4,
+    "close": 64225.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 57,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T14:57:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:57:06.926Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:57:06.926Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64225.4,
+    "high": 64243.6,
+    "low": 64125.9,
+    "close": 64202.2,
+    "volume": 143,
+    "tick_volume": 143,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 57,
+    "spread": 24,
+    "fullDate": {
+      "$date": "2024-03-20T14:57:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:57:06.928Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:57:06.928Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64199.1,
+    "high": 64199.1,
+    "low": 64199.1,
+    "close": 64199.1,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 58,
+    "spread": 25.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:58:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:58:02.653Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:58:02.653Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64199.1,
+    "high": 64268,
+    "low": 64163.6,
+    "close": 64265.3,
+    "volume": 101,
+    "tick_volume": 101,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 58,
+    "spread": 24.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T14:58:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:58:02.656Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:58:02.656Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64273.7,
+    "high": 64283.8,
+    "low": 64215.7,
+    "close": 64216.6,
+    "volume": 63,
+    "tick_volume": 63,
+    "date": "Wed Mar 20 2024",
+    "hour": 14,
+    "minute": 59,
+    "spread": 34.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T14:59:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T14:59:01.997Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T14:59:01.997Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64233.4,
+    "high": 64233.4,
+    "low": 64233.4,
+    "close": 64233.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 0,
+    "spread": 30.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:00:02.984Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:00:02.984Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64233.4,
+    "high": 64240.6,
+    "low": 64161.1,
+    "close": 64222.5,
+    "volume": 122,
+    "tick_volume": 122,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 0,
+    "spread": 28,
+    "fullDate": {
+      "$date": "2024-03-20T15:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:00:02.986Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:00:02.986Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64247.3,
+    "high": 64247.3,
+    "low": 64247.3,
+    "close": 64247.3,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 1,
+    "spread": 30,
+    "fullDate": {
+      "$date": "2024-03-20T15:01:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:01:03.516Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:01:03.516Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64247.3,
+    "high": 64373.6,
+    "low": 64247.3,
+    "close": 64318,
+    "volume": 158,
+    "tick_volume": 158,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 1,
+    "spread": 32.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:01:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:01:03.520Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:01:03.520Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64294.8,
+    "high": 64294.8,
+    "low": 64294.8,
+    "close": 64294.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 2,
+    "spread": 29.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T15:02:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:02:00.891Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:02:00.891Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64294.8,
+    "high": 64294.8,
+    "low": 64294.8,
+    "close": 64294.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 2,
+    "spread": 29.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T15:02:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:02:00.892Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:02:00.892Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64294.8,
+    "high": 64336.3,
+    "low": 64184.5,
+    "close": 64194.7,
+    "volume": 154,
+    "tick_volume": 154,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 2,
+    "spread": 27.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:02:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:02:00.894Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:02:00.894Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64190.4,
+    "high": 64190.4,
+    "low": 64190.4,
+    "close": 64190.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 3,
+    "spread": 28.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T15:03:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:03:01.064Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:03:01.064Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64190.4,
+    "high": 64190.4,
+    "low": 64190.4,
+    "close": 64190.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 3,
+    "spread": 28.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T15:03:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:03:01.067Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:03:01.067Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64190.4,
+    "high": 64280.7,
+    "low": 64154.3,
+    "close": 64183.3,
+    "volume": 166,
+    "tick_volume": 166,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 3,
+    "spread": 31,
+    "fullDate": {
+      "$date": "2024-03-20T15:03:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:03:01.069Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:03:01.069Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64166.2,
+    "high": 64170.9,
+    "low": 64048.5,
+    "close": 64048.5,
+    "volume": 143,
+    "tick_volume": 143,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 4,
+    "spread": 27.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:04:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:04:02.199Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:04:02.199Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64166.2,
+    "high": 64166.2,
+    "low": 64166.2,
+    "close": 64166.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 4,
+    "spread": 28.10000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T15:04:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:04:02.201Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:04:02.201Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64054,
+    "high": 64054,
+    "low": 64054,
+    "close": 64054,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 5,
+    "spread": 28,
+    "fullDate": {
+      "$date": "2024-03-20T15:05:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:05:01.309Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:05:01.309Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64054,
+    "high": 64054,
+    "low": 64054,
+    "close": 64054,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 5,
+    "spread": 28,
+    "fullDate": {
+      "$date": "2024-03-20T15:05:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:05:01.310Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:05:01.310Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64054,
+    "high": 64108.5,
+    "low": 64049.1,
+    "close": 64068.1,
+    "volume": 157,
+    "tick_volume": 157,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 5,
+    "spread": 26.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:05:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:05:01.311Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:05:01.311Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64061.2,
+    "high": 64084.7,
+    "low": 64033,
+    "close": 64033,
+    "volume": 105,
+    "tick_volume": 105,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 6,
+    "spread": 31.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T15:06:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:06:01.200Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:06:01.200Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64031.3,
+    "high": 64041.4,
+    "low": 63935.2,
+    "close": 63970.3,
+    "volume": 111,
+    "tick_volume": 111,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 7,
+    "spread": 26.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:07:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:07:00.419Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:07:00.419Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63971.5,
+    "high": 63971.5,
+    "low": 63971.5,
+    "close": 63971.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 8,
+    "spread": 31.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:08:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:08:00.141Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:08:00.141Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63971.5,
+    "high": 64008.7,
+    "low": 63936.2,
+    "close": 63993.1,
+    "volume": 146,
+    "tick_volume": 146,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 8,
+    "spread": 30.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:08:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:08:00.142Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:08:00.142Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63992.5,
+    "high": 64029.4,
+    "low": 63982.6,
+    "close": 64007.1,
+    "volume": 90,
+    "tick_volume": 90,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 9,
+    "spread": 30.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:09:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:09:01.226Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:09:01.226Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63998.7,
+    "high": 64026.7,
+    "low": 63964.9,
+    "close": 64025.1,
+    "volume": 114,
+    "tick_volume": 114,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 10,
+    "spread": 32.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:10:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:10:02.724Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:10:02.724Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64023.7,
+    "high": 64128.1,
+    "low": 64023.7,
+    "close": 64107.7,
+    "volume": 156,
+    "tick_volume": 156,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 11,
+    "spread": 29.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:11:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:11:00.779Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:11:00.779Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64104.3,
+    "high": 64141.1,
+    "low": 64096.7,
+    "close": 64121.1,
+    "volume": 102,
+    "tick_volume": 102,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 12,
+    "spread": 28.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:12:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:12:01.512Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:12:01.512Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64123.6,
+    "high": 64123.6,
+    "low": 64123.6,
+    "close": 64123.6,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 13,
+    "spread": 34.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:13:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:13:00.197Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:13:00.197Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64123.6,
+    "high": 64124.2,
+    "low": 64062.5,
+    "close": 64117.2,
+    "volume": 128,
+    "tick_volume": 128,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 13,
+    "spread": 25.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:13:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:13:00.199Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:13:00.199Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64109.9,
+    "high": 64184.2,
+    "low": 64102.3,
+    "close": 64142.3,
+    "volume": 96,
+    "tick_volume": 96,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 14,
+    "spread": 30.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:14:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:14:00.872Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:14:00.872Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64136.3,
+    "high": 64136.3,
+    "low": 63922.4,
+    "close": 63922.4,
+    "volume": 159,
+    "tick_volume": 159,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 15,
+    "spread": 37.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:15:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:15:01.066Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:15:01.066Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63931.5,
+    "high": 63931.5,
+    "low": 63931.5,
+    "close": 63931.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 16,
+    "spread": 32.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:16:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:16:00.514Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:16:00.514Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63931.5,
+    "high": 63949.1,
+    "low": 63733,
+    "close": 63785.2,
+    "volume": 332,
+    "tick_volume": 332,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 16,
+    "spread": 44,
+    "fullDate": {
+      "$date": "2024-03-20T15:16:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:16:00.519Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:16:00.519Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63790.6,
+    "high": 63872.6,
+    "low": 63696.6,
+    "close": 63820.2,
+    "volume": 309,
+    "tick_volume": 309,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 17,
+    "spread": 27.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:17:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:17:00.220Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:17:00.220Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63817,
+    "high": 64051.1,
+    "low": 63817,
+    "close": 63990.4,
+    "volume": 306,
+    "tick_volume": 306,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 18,
+    "spread": 41.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:18:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:18:00.460Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:18:00.460Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63971.8,
+    "high": 63971.8,
+    "low": 63971.8,
+    "close": 63971.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 19,
+    "spread": 33.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T15:19:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:19:00.348Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:19:00.348Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63971.8,
+    "high": 63971.8,
+    "low": 63971.8,
+    "close": 63971.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 19,
+    "spread": 33.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T15:19:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:19:00.349Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:19:00.349Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63971.8,
+    "high": 64009.7,
+    "low": 63859,
+    "close": 63876.4,
+    "volume": 235,
+    "tick_volume": 235,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 19,
+    "spread": 36.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T15:19:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:19:00.350Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:19:00.350Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63871.8,
+    "high": 63871.8,
+    "low": 63871.8,
+    "close": 63871.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 20,
+    "spread": 29.39999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T15:20:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:20:00.024Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:20:00.024Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63871.8,
+    "high": 63994.7,
+    "low": 63860.8,
+    "close": 63975.1,
+    "volume": 230,
+    "tick_volume": 230,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 20,
+    "spread": 33.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T15:20:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:20:00.025Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:20:00.025Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63983.8,
+    "high": 64071.2,
+    "low": 63980,
+    "close": 64028.7,
+    "volume": 195,
+    "tick_volume": 195,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 21,
+    "spread": 33.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:21:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:21:00.192Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:21:00.192Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64046.9,
+    "high": 64059.5,
+    "low": 63927.4,
+    "close": 63980.4,
+    "volume": 201,
+    "tick_volume": 201,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 22,
+    "spread": 26.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:22:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:22:02.590Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:22:02.590Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63965.4,
+    "high": 63965.4,
+    "low": 63965.4,
+    "close": 63965.4,
+    "volume": 2,
+    "tick_volume": 2,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 23,
+    "spread": 30,
+    "fullDate": {
+      "$date": "2024-03-20T15:23:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:23:00.396Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:23:00.396Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63965.4,
+    "high": 64040.7,
+    "low": 63874.9,
+    "close": 64022,
+    "volume": 232,
+    "tick_volume": 232,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 23,
+    "spread": 32.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:23:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:23:00.397Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:23:00.397Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64015.5,
+    "high": 64015.5,
+    "low": 64015.5,
+    "close": 64015.5,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 24,
+    "spread": 34.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:24:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:24:00.628Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:24:00.628Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64015.5,
+    "high": 64029.9,
+    "low": 63937.4,
+    "close": 64020.5,
+    "volume": 188,
+    "tick_volume": 188,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 24,
+    "spread": 36.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:24:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:24:00.631Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:24:00.631Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64031.7,
+    "high": 64086.7,
+    "low": 63973.1,
+    "close": 64086.7,
+    "volume": 183,
+    "tick_volume": 183,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 25,
+    "spread": 28.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:25:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:25:00.484Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:25:00.484Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64089.9,
+    "high": 64089.9,
+    "low": 64089.9,
+    "close": 64089.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 26,
+    "spread": 27.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:26:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:26:00.136Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:26:00.136Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64089.9,
+    "high": 64111.6,
+    "low": 64049.3,
+    "close": 64063.5,
+    "volume": 140,
+    "tick_volume": 140,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 26,
+    "spread": 26.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:26:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:26:00.139Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:26:00.139Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64063.9,
+    "high": 64142,
+    "low": 64063.9,
+    "close": 64118.8,
+    "volume": 104,
+    "tick_volume": 104,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 27,
+    "spread": 28.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T15:27:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:27:04.072Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:27:04.072Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64063.9,
+    "high": 64063.9,
+    "low": 64063.9,
+    "close": 64063.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 27,
+    "spread": 31.19999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T15:27:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:27:04.074Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:27:04.074Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64114.7,
+    "high": 64114.7,
+    "low": 64114.7,
+    "close": 64114.7,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 28,
+    "spread": 27.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:28:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:28:04.434Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:28:04.434Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64114.7,
+    "high": 64114.7,
+    "low": 64114.7,
+    "close": 64114.7,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 28,
+    "spread": 27.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:28:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:28:04.436Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:28:04.436Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 64114.7,
+    "high": 64129,
+    "low": 63965.3,
+    "close": 63979.2,
+    "volume": 133,
+    "tick_volume": 133,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 28,
+    "spread": 32,
+    "fullDate": {
+      "$date": "2024-03-20T15:28:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:28:04.437Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:28:04.437Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63982.9,
+    "high": 64004.9,
+    "low": 63871.2,
+    "close": 63924,
+    "volume": 138,
+    "tick_volume": 138,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 29,
+    "spread": 29.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:29:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:29:01.476Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:29:01.476Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63917.3,
+    "high": 63917.3,
+    "low": 63917.3,
+    "close": 63917.3,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 30,
+    "spread": 30.89999999999418,
+    "fullDate": {
+      "$date": "2024-03-20T15:30:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:30:01.709Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:30:01.709Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63917.3,
+    "high": 63963.3,
+    "low": 63836.5,
+    "close": 63949,
+    "volume": 176,
+    "tick_volume": 176,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 30,
+    "spread": 38.80000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:30:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:30:01.710Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:30:01.710Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63940.4,
+    "high": 63940.4,
+    "low": 63853.2,
+    "close": 63853.2,
+    "volume": 144,
+    "tick_volume": 144,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 31,
+    "spread": 29,
+    "fullDate": {
+      "$date": "2024-03-20T15:31:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:31:00.108Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:31:00.108Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63844.2,
+    "high": 63844.2,
+    "low": 63844.2,
+    "close": 63844.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 32,
+    "spread": 29.900000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:32:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:32:00.398Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:32:00.398Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63844.2,
+    "high": 63844.2,
+    "low": 63655.4,
+    "close": 63720.3,
+    "volume": 188,
+    "tick_volume": 188,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 32,
+    "spread": 30.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:32:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:32:00.401Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:32:00.401Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63714.2,
+    "high": 63714.2,
+    "low": 63714.2,
+    "close": 63714.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 33,
+    "spread": 30.10000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T15:33:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:33:00.196Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:33:00.196Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63714.2,
+    "high": 63718.9,
+    "low": 63584.7,
+    "close": 63601.5,
+    "volume": 260,
+    "tick_volume": 260,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 33,
+    "spread": 35.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:33:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:33:00.197Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:33:00.197Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63601.3,
+    "high": 63705,
+    "low": 63601.3,
+    "close": 63632.1,
+    "volume": 255,
+    "tick_volume": 255,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 34,
+    "spread": 56.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:34:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:34:00.593Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:34:00.593Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63685.2,
+    "high": 63685.2,
+    "low": 63685.2,
+    "close": 63685.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 35,
+    "spread": 28.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T15:35:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:35:01.828Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:35:01.828Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63685.2,
+    "high": 63825.7,
+    "low": 63669.6,
+    "close": 63750.8,
+    "volume": 200,
+    "tick_volume": 200,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 35,
+    "spread": 38,
+    "fullDate": {
+      "$date": "2024-03-20T15:35:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:35:01.832Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:35:01.832Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63762.2,
+    "high": 63762.2,
+    "low": 63762.2,
+    "close": 63762.2,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 36,
+    "spread": 33.10000000000582,
+    "fullDate": {
+      "$date": "2024-03-20T15:36:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:36:01.153Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:36:01.153Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63762.2,
+    "high": 63870.1,
+    "low": 63686.8,
+    "close": 63870.1,
+    "volume": 227,
+    "tick_volume": 227,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 36,
+    "spread": 31.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:36:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:36:01.155Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:36:01.155Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63873.2,
+    "high": 63873.8,
+    "low": 63721.1,
+    "close": 63787.1,
+    "volume": 168,
+    "tick_volume": 168,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 37,
+    "spread": 34.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:37:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:37:00.365Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:37:00.365Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63783.6,
+    "high": 63855,
+    "low": 63783.6,
+    "close": 63817,
+    "volume": 144,
+    "tick_volume": 144,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 38,
+    "spread": 34.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:38:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:38:01.788Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:38:01.788Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63823.1,
+    "high": 63823.1,
+    "low": 63823.1,
+    "close": 63823.1,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 39,
+    "spread": 35.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:39:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:39:01.493Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:39:01.493Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63823.1,
+    "high": 63823.1,
+    "low": 63823.1,
+    "close": 63823.1,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 39,
+    "spread": 35.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:39:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:39:01.495Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:39:01.495Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63823.1,
+    "high": 63861.4,
+    "low": 63774.2,
+    "close": 63852.3,
+    "volume": 148,
+    "tick_volume": 148,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 39,
+    "spread": 32.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T15:39:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:39:01.497Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:39:01.497Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63865.4,
+    "high": 63909.3,
+    "low": 63805.7,
+    "close": 63889.6,
+    "volume": 138,
+    "tick_volume": 138,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 40,
+    "spread": 29.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T15:40:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:40:00.717Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:40:00.717Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63883.7,
+    "high": 63883.7,
+    "low": 63767.6,
+    "close": 63791,
+    "volume": 159,
+    "tick_volume": 159,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 41,
+    "spread": 36.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:41:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:41:01.385Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:41:01.385Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63793.4,
+    "high": 63793.4,
+    "low": 63793.4,
+    "close": 63793.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 42,
+    "spread": 31.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T15:42:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:42:01.206Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:42:01.206Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63793.4,
+    "high": 63796.4,
+    "low": 63663.4,
+    "close": 63671.7,
+    "volume": 164,
+    "tick_volume": 164,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 42,
+    "spread": 31.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:42:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:42:01.207Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:42:01.207Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63671.9,
+    "high": 63671.9,
+    "low": 63671.9,
+    "close": 63671.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 43,
+    "spread": 31.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:43:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:43:00.848Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:43:00.848Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63671.9,
+    "high": 63682.3,
+    "low": 63515.3,
+    "close": 63532.8,
+    "volume": 176,
+    "tick_volume": 176,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 43,
+    "spread": 36.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:43:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:43:00.850Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:43:00.850Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63536.4,
+    "high": 63536.4,
+    "low": 63536.4,
+    "close": 63536.4,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 44,
+    "spread": 34.400000000001455,
+    "fullDate": {
+      "$date": "2024-03-20T15:44:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:44:00.773Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:44:00.773Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63536.4,
+    "high": 63602.5,
+    "low": 63494.3,
+    "close": 63499,
+    "volume": 194,
+    "tick_volume": 194,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 44,
+    "spread": 32.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:44:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:44:00.773Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:44:00.773Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63488,
+    "high": 63488,
+    "low": 63488,
+    "close": 63488,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 45,
+    "spread": 34.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:45:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:45:00.262Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:45:00.262Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63488,
+    "high": 63488,
+    "low": 63488,
+    "close": 63488,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 45,
+    "spread": 34.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:45:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:45:00.263Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:45:00.263Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63488,
+    "high": 63544,
+    "low": 63459.9,
+    "close": 63476.6,
+    "volume": 232,
+    "tick_volume": 232,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 45,
+    "spread": 27.30000000000291,
+    "fullDate": {
+      "$date": "2024-03-20T15:45:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:45:00.264Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:45:00.264Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63478.5,
+    "high": 63553.8,
+    "low": 63367.4,
+    "close": 63508,
+    "volume": 243,
+    "tick_volume": 243,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 46,
+    "spread": 42.099999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:46:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:46:00.435Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:46:00.435Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63511,
+    "high": 63579.7,
+    "low": 63511,
+    "close": 63540.8,
+    "volume": 216,
+    "tick_volume": 216,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 47,
+    "spread": 37,
+    "fullDate": {
+      "$date": "2024-03-20T15:47:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:47:00.507Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:47:00.507Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63555.4,
+    "high": 63586.2,
+    "low": 63521.7,
+    "close": 63565.7,
+    "volume": 132,
+    "tick_volume": 132,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 48,
+    "spread": 33.200000000004366,
+    "fullDate": {
+      "$date": "2024-03-20T15:48:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:48:01.491Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:48:01.491Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63565.1,
+    "high": 63593.9,
+    "low": 63529.2,
+    "close": 63574.3,
+    "volume": 126,
+    "tick_volume": 126,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 49,
+    "spread": 29.69999999999709,
+    "fullDate": {
+      "$date": "2024-03-20T15:49:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:49:02.203Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:49:02.203Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63588.8,
+    "high": 63588.8,
+    "low": 63588.8,
+    "close": 63588.8,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 50,
+    "spread": 33.299999999995634,
+    "fullDate": {
+      "$date": "2024-03-20T15:50:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:50:01.624Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:50:01.624Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63588.8,
+    "high": 63680.5,
+    "low": 63569.3,
+    "close": 63656.1,
+    "volume": 134,
+    "tick_volume": 134,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 50,
+    "spread": 34.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:50:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:50:01.625Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:50:01.625Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63653.9,
+    "high": 63653.9,
+    "low": 63653.9,
+    "close": 63653.9,
+    "volume": 1,
+    "tick_volume": 1,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 51,
+    "spread": 29.599999999998545,
+    "fullDate": {
+      "$date": "2024-03-20T15:51:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:51:00.352Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:51:00.352Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63653.9,
+    "high": 63715.6,
+    "low": 63649.2,
+    "close": 63705,
+    "volume": 96,
+    "tick_volume": 96,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 51,
+    "spread": 31.5,
+    "fullDate": {
+      "$date": "2024-03-20T15:51:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:51:00.353Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:51:00.353Z"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "open": 63705.3,
+    "high": 63706.5,
+    "low": 63623.2,
+    "close": 63694.8,
+    "volume": 49,
+    "tick_volume": 49,
+    "date": "Wed Mar 20 2024",
+    "hour": 15,
+    "minute": 52,
+    "spread": 31,
+    "fullDate": {
+      "$date": "2024-03-20T15:52:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-03-20T15:52:02.308Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T15:52:02.308Z"
+    }
+  }
+]

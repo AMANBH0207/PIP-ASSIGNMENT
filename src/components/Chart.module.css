@@ -1,0 +1,70 @@
+.chart-container {
+    position: relative;
+  }
+  
+  .sma-settings {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    z-index: 100000;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sma-settings h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .sma-settings label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .sma-settings input[type="number"],
+  .sma-settings input[type="color"],
+  .sma-settings select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .sma-settings select {
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg fill='black' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: 50%;
+  }
+  
+  .sma-settings input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .sma-settings input[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+
+  
+  
+
+  @media screen and (max-width: 768px) {
+    .sma-settings {
+      position:static;
+      transform: none;
+    }
+  }
