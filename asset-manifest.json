@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PIP-ASSIGNMENT/static/css/main.1d1400b3.css",
+    "main.js": "/PIP-ASSIGNMENT/static/js/main.d8a8d9f1.js",
+    "static/js/453.8b94c5b8.chunk.js": "/PIP-ASSIGNMENT/static/js/453.8b94c5b8.chunk.js",
+    "index.html": "/PIP-ASSIGNMENT/index.html",
+    "main.1d1400b3.css.map": "/PIP-ASSIGNMENT/static/css/main.1d1400b3.css.map",
+    "main.d8a8d9f1.js.map": "/PIP-ASSIGNMENT/static/js/main.d8a8d9f1.js.map",
+    "453.8b94c5b8.chunk.js.map": "/PIP-ASSIGNMENT/static/js/453.8b94c5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d1400b3.css",
+    "static/js/main.d8a8d9f1.js"
+  ]
+}
